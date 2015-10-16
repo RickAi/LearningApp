@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LearningApp</string>
+    <string name="apple">apple</string>
+    <string name="banana">banana</string>
+    <string name="grape">grape</string>
+    <string name="orange">orange</string>
+    <string name="pineapple">pineapple</string>
+    <string name="pitaya">pitaya</string>
+    <string name="strawberry">strawberry</string>
+    <string name="watermelon">watermelon</string>
+    <string name="unknown">unknown</string>
+
+</resources>
